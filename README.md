@@ -1,3 +1,19 @@
+<!--
+CONFIG
+FULL_NAME: Karen Daniela Holguin Cruz 
+GITHUB_USER: Karendaniela09
+EMAIL: klddaniela8@gmail.com
+CODE_ORGANIZATION: code-sena
+-->
+
+<h1 align="center">Karen Daniela Holguin Cruz </h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=juanperezdev&label=Profile%20views&style=flat-square&color=brightgreen" alt="Profile views">
+</p>
+
+
+
 👩‍💻 About Me
 
 I am an 18-year-old apprentice in the Software Analysis and Development program at SENA, Colombia. I am passionate about technology, programming, and problem-solving through efficient and well-structured solutions.
